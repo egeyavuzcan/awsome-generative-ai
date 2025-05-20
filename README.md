@@ -9,6 +9,7 @@ A collection of resources and papers on generative AI, organized by domain and m
 - [Large Language Models (LLMs)](#large-language-models-llms)  
 - [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)  
 - [Agents & Tool Use](#agents--tool-use)  
+- [MCP (Multi-Agent Coordination & Planning)](#mcp-multi-agent-coordination--planning)  
 - [Fine-tuning & Alignment](#fine-tuning--alignment)  
 - [Evaluation & Benchmarks](#evaluation--benchmarks)  
 - [Multimodal Generation](#multimodal-generation)  
@@ -44,6 +45,16 @@ A collection of resources and papers on generative AI, organized by domain and m
 
 ---
 
+## MCP (Multi-Agent Coordination & Planning)
+
+- **Meta-Controller Policies**  
+- **Hierarchical & Modular Planning**  
+- **Communication & Coordination Protocols**  
+- **Distributed Task Allocation**  
+- **Collaborative Decision-Making**  
+
+---
+
 ## Fine-tuning & Alignment
 
 - **Supervised Fine-tuning (SFT)**  
@@ -62,7 +73,6 @@ A collection of resources and papers on generative AI, organized by domain and m
 
 ---
 
-
 ## Multimodal Generation
 
 - **Vision-Language Models (e.g., Flamingo, CLIP)**  
@@ -72,7 +82,6 @@ A collection of resources and papers on generative AI, organized by domain and m
 
 ---
 
-
 ## Datasets & Frameworks
 
 - **OpenAI API, Hugging Face Transformers**  
@@ -81,5 +90,3 @@ A collection of resources and papers on generative AI, organized by domain and m
 - **Toolkits for Evaluation (e.g., EleutherAI’s Evals)**  
 
 ---
-
-
